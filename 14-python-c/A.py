@@ -1,0 +1,1 @@
+print(sum(range(20230409)))
